@@ -10,18 +10,30 @@ Aku mencintai illyasviel.
 
 1. Pastikan Python sudah terinstall di komputermu.
    Cek dengan buka terminal atau CMD dan ketik:
-   ```python --version```
+   
+   ```
+   python --version
+   ```
 
-2. Install library pygame. Cukup jalankan:
-   ```pip install pygame```
+3. Install library pygame. Cukup jalankan:
+   
+   ```
+   pip install pygame
+   ```
 
-3. Download semua file dari repo ini, atau clone dengan:
-   ```git clone https://github.com/FariNoveri/slither-python```
+5. Download semua file dari repo ini, atau clone dengan:
+   
+   ```
+   git clone https://github.com/FariNoveri/slither-python
+   ```
 
-4. Masuk ke folder project:
-   ```cd slither-python```
+7. Masuk ke folder project:
+   
+   ```
+   cd slither-python
+   ```
 
-5. Jalankan game:
+9. Jalankan game:
    Klik run (jika di vscode) dan pilih python yang pertama
 
 ## Kontrol
